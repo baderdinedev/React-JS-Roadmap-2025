@@ -1,7 +1,6 @@
 🚀 React-JS-Roadmap-2025
     Your ultimate step-by-step guide to mastering React JS by building real-world projects! This roadmap is designed to provide a clear learning path while ensuring you're equipped with practical skills and modern web development techniques. Each folder represents a crucial milestone in your journey.
 
-
 .
 ├── Css-Master
 │   ├── Responsive Web Design
@@ -31,6 +30,7 @@
     ├── Testing React Apps
     ├── Real-World Project
     └── Deployment
+
 
 📁 Css-Master
     This folder will guide you through mastering modern CSS techniques to create responsive and visually appealing web designs.
